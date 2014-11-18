@@ -62,7 +62,7 @@ public class GreenfootUtilDelegateStandalone implements GreenfootUtilDelegate {
 
     @Override
     public String getGreenfootLogoPath() {
-        return "logo.jpg";
+        return "default.png";
     }
 
     @Override
