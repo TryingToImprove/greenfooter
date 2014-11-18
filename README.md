@@ -1,4 +1,4 @@
-greenfoot-panel
+greenfooter
 ===============
 
 A project to run greenfoot projects from a IDE
